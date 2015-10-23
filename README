@@ -1,6 +1,6 @@
 Used for web animation or object distribute. 
 
-1------  multiple materials flash animation (like pictures, characters or other materials)
+1------  multiple materials flash animation (like pictures, characters or other materials, they will display one by one)
 
 // -- "_DisplayTimer" used for terminate loop by yourself(Attention: I use _DisplayTimer as a global variable, you use "clearTimeout(_DisplayTimer)" to terminate where u want)
 
